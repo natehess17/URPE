@@ -16,6 +16,6 @@ Additional thoughts:
   - Engine should be modular hosted on a server so need a method to read and write serialized data to clients (protobufs, flatbuffers ???)
 
 Library dependencies:
-  Eigen https://eigen.tuxfamily.org/dox/group__TutorialMatrixClass.html (math)
-  Flatbuffers https://google.github.io/flatbuffers/ (serialization)
-  OpenGL https://www.opengl.org/sdk/libs/ (Graphics Rendering for testing, engine is server based so all rendering should be done client side)
+  - Eigen https://eigen.tuxfamily.org/dox/group__TutorialMatrixClass.html (math)
+  - Flatbuffers https://google.github.io/flatbuffers/ (serialization)
+  - OpenGL https://www.opengl.org/sdk/libs/ (Graphics Rendering for testing, engine is server based so all rendering should be done client side)
