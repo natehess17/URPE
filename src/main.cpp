@@ -8,7 +8,7 @@ int main()
 {
 
     Point *testPoint = new Point({1,2,3});
-
+//urpe test 2.0 -norm
     testPoint->setVelocity({1,1,1});
     testPoint->setAcceleration({1.6,2.3,9.8});
 
